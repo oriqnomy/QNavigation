@@ -1,0 +1,7 @@
+{
+  "name": "QNavigation",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
